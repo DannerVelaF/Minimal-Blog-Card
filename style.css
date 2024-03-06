@@ -63,6 +63,8 @@ body {
 .annie {
   color: #6c727f;
   width: 100%;
-  padding-top: 20px;
+  /* background-color: red; */
+  padding: 20px 16px 0px;
   margin-bottom: 4px;
+  border-top: 1px solid #e5eaf0;
 }
